@@ -1,1 +1,1 @@
-# Rock-paper-scissors
+# A simple rock-paper-scissors project for "The Odin Project". Made with JS.
